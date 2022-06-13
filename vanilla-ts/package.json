@@ -1,0 +1,15 @@
+{
+  "name": "vanilla-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^28.1.1",
+    "jest": "28.1.1",
+    "ts-jest": "^28.0.4",
+    "typescript": "^4.7.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
